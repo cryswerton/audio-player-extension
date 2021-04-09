@@ -1,0 +1,11 @@
+{
+
+    "manifest_version": 2,
+    "name": "audio player",
+    "description": "Toca um audio mp3.",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+
+}
